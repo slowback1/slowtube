@@ -1,0 +1,8 @@
+.logoSection {
+    background-color: inherit;
+    margin-left: 25px;
+}
+.logoSection a img {
+    height: 50px;
+    width: auto;
+}

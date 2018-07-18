@@ -1,0 +1,9 @@
+.head {
+    display: flex;
+    flex-direction: row;
+    height: 64px;
+    width: 100%;
+    justify-content: space-around;
+    background-color: #ff2222;
+    margin-bottom: 500px;
+}

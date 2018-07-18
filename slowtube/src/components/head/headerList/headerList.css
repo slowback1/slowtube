@@ -1,0 +1,25 @@
+.headerList {
+    background-color: inherit;
+    width: 40vw;
+    height: 64px;
+}
+.headerList ul {
+    width: 40vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.headerList ul li {
+    height: 64px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.headerList ul li p {
+    color: #dedede;
+    font-size: 36px;
+}
+.headerList ul li br {
+    width: 45%;
+    color: #dedede;
+}
