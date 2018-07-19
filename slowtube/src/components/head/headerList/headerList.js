@@ -6,9 +6,9 @@ class HeaderList extends Component {
         return(
             <div className="headerList">
                 <ul>
-                    <li><p>about</p><br /></li>
-                    <li><p>playlists</p><br /></li>
-                    <li><p>about</p><br /></li>
+                    <li><p>About</p><br /></li>
+                    <li><p>Playlists</p><br /></li>
+                    <li><p>Sign in</p><br /></li>
                 </ul>
             </div>
             )
